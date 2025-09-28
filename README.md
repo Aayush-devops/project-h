@@ -1,4 +1,4 @@
-# project-h
+# project-h AI-Powered Health & Fitness Platform
 
 An intelligent health and fitness platform that provides personalized insights through AI-powered coaching and comprehensive biometric data analysis.
 
